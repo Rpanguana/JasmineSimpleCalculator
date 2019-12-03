@@ -1,3 +1,5 @@
+let add = require('../src/add')
+
 describe("Add function", function() {
   
   it("Should return 10", function() {

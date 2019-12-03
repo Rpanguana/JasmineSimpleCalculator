@@ -12,3 +12,5 @@ function add(...args) {
 	return sum;
 	// body...
 }
+
+module.exports = add;

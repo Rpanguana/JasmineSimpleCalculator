@@ -12,4 +12,7 @@ function multiply(...args) {
 	return product;
 	// body...
 }
+
+module.exports = multiply;
 console.log(multiply(3, 4));
+

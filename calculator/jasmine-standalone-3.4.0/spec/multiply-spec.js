@@ -1,3 +1,5 @@
+let multiply = require('../src/multiply')
+
 describe("multiply function", function() {
   
   it("Should return 12", function() {
