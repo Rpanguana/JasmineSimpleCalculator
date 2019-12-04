@@ -10,7 +10,6 @@ function multiply(...args) {
 
 	}
 	return product;
-	// body...
 }
 
 module.exports = multiply;
